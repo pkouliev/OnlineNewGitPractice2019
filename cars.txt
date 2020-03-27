@@ -7,7 +7,6 @@ Mercedes S500
 Kia Optima
 Lexus GX470
 Kia Optima
-<<<<<<< HEAD
 Honda Civic
 Subaru WRX STI
 
